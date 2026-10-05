@@ -68,13 +68,12 @@ The recommendations are derived from actual findings in the dataset rather than 
 ## Repository Structure
 ```text
 zomato-market-intelligence/
-??? Zomato_Market_Intelligence.ipynb
-??? zomato.csv
-??? README.md
-??? requirements.txt
-??? docs.md
-??? .gitignore
-??? LICENSE
+Zomato_Market_Intelligence.ipynb
+Zomato Restaurant Dataset.csv
+README.md
+requirements.txt
+.gitignore
+LICENSE
 ```
 
 ## How to Run
